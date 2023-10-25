@@ -1,0 +1,23 @@
+orange  9
+brown   8
+dgreen  4
+lgreen 12
+
+14 x 10 (before padding)
+
+20 x 12 (3 horiz and 1 vert padding on each side)
+ or
+20 x 16 (3 horiz and 3 vert)
+
+todo: try it out!
+
+       ooo
+      o--o
+  xxxxo-oxxx
+ x  x  oox  x
+x  x      x  x
+x  x      x  x
+x  x      x  x
+x  x      x  x
+ x  x    x  x
+  xxxxxxxxxx
